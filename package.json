@@ -1,0 +1,27 @@
+{
+  "name": "storybook",
+  "version": "1.0.0",
+  "description": "This is a little experiment I am doing with Antd and Storybook. Feel free to use it if you find it useful",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@storybook/addon-essentials": "^7.4.1",
+    "@storybook/addon-interactions": "^7.4.1",
+    "@storybook/addon-links": "^7.4.1",
+    "@storybook/addon-onboarding": "^1.0.8",
+    "@storybook/blocks": "^7.4.1",
+    "@storybook/nextjs": "^7.4.1",
+    "@storybook/react": "^7.4.1",
+    "@storybook/testing-library": "^0.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "storybook": "^7.4.1"
+  }
+}
