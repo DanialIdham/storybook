@@ -1,0 +1,6 @@
+{
+    "name": "component",
+    "private": true,
+    "main": "./index.ts"
+  }
+  
